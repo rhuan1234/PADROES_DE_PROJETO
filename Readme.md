@@ -18,7 +18,7 @@ Este projeto é uma API REST construída com **Express** e **TypeScript** que im
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/rhuan1234/PADROES_DE_PROJETO
 cd padroes-de-projeto
 ```
 
