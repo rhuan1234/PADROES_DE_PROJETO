@@ -19,7 +19,7 @@ Este projeto é uma API REST construída com **Express** e **TypeScript** que im
 
 ```bash
 git clone https://github.com/rhuan1234/PADROES_DE_PROJETO
-cd padroes-de-projeto
+cd PADROES_DE_PROJETO
 ```
 
 ### 2. Instale as dependências
